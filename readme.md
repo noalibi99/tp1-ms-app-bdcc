@@ -123,7 +123,6 @@ private List<BankAccount> bankAccounts;
 
 ![Customers avec leurs comptes en GraphQL](screenshots/12-graphql-customers.png)
 
-![REST après correction de la boucle](screenshots/13-rest-sans-boucle.png)
 
 ## 9. Comparaison
 
