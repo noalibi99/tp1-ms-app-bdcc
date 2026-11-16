@@ -1,6 +1,6 @@
 package me.medelhimar.bdcc.tp1_ssd_e_back_service;
 
-import me.medelhimar.bdcc.tp1_ssd_e_back_service.entities.AccountType;
+import me.medelhimar.bdcc.tp1_ssd_e_back_service.enums.AccountType;
 import me.medelhimar.bdcc.tp1_ssd_e_back_service.entities.BankAccount;
 import me.medelhimar.bdcc.tp1_ssd_e_back_service.repositories.BankAccountRepository;
 import org.springframework.boot.CommandLineRunner;
